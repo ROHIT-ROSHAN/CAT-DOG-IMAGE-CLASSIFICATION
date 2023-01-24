@@ -5,7 +5,7 @@ A Machine learning (Deep Learning) project on ```Cat v/s Dog image classificatio
 
 ## IMPORTANT NOTE
 - It is advised to run the notebook in ```Google colab```, as colab provides ```GPU``` which lessens the training time of the algorithm.
-- Also colab is inbuilt with all of the required python pip packages, thereby saving your time to install these packages on your local system.
+- Also Google colab is inbuilt with all of the required python pip packages, thereby saving your time to install these packages on your local system.
 - To run the notebook in your native pc, just change the paths of image folders accordingly.
 - To use the ```TestImages```, upload the test images folders to your drive and give the path accordingly.
 - A brief description of all the 3 algorithms namely ```CNN```, ```VGG-16``` and ```VGG-19``` are available in the presentations uploaded. (Both part 1 and part 2). Explanation on methods to approach the problem, result analysis of all the 3 algorithms are provided in these presentations as well.
